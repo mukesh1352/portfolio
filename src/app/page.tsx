@@ -1,9 +1,8 @@
-import Heading from "./components/heading";
-
-export default function Home() {
-  return (
-      <main className="flex-1 p-4">
-        <Heading />
-      </main>
-  );
+import Header from "../app/components/header"
+export default function Home(){
+    return(
+        <div>
+            <Header/>
+        </div>
+    )
 }

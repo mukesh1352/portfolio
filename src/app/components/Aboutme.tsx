@@ -39,9 +39,9 @@ export default function AboutMe() {
       <h2 className="text-xl font-semibold mt-6 mb-2">Skills & Tools</h2>
       <ul className="list-disc list-inside">
         <li>Languages: Java, Python, JavaScript</li>
-        <li>Web: HTML, CSS, React, Node.js</li>
+        <li>Web: HTML, CSS, React, Node.js,Next.js</li>
         <li>AI/ML: TensorFlow, scikit-learn, Pandas</li>
-        <li>Tools: Git, VSCode, Postman, Figma</li>
+        <li>Tools: Git, VSCode, Postman</li>
       </ul>
     </div>
   );

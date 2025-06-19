@@ -23,7 +23,7 @@ const projects = [
       "An AI-driven solution that uses the A* pathfinding algorithm to identify the nearest delivery agent, optimizing distance and fuel consumption.",
     tech: ["Flask", "Python", "A* Algorithm"],
     github: "https://github.com/mukesh1352/pathfinding-with-fuel",
-    demo: null,
+    demo: "https://pathfinding-with-fuel.onrender.com",
   },
   {
     title: "Smart-Canteen",
